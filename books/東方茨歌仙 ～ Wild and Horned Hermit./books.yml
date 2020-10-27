@@ -1,0 +1,61 @@
+- id: 5f9855bc0f0268ef33265ab6
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(1)"
+  isbn: 978-4758012225
+  authors: &author
+    - author: 5f9855bcb629d1a38d4cbd8f
+      role:
+        - "原作"
+    - author: 5f9855bcb629d1a38d4cbd90
+      role:
+        - "漫画"
+
+- id: 5f9855bc0f0268ef33265ab7
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(2)"
+  isbn: 978-4041210031
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265ab8
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(3)"
+  isbn: 978-4758013178
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265ab9
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(4)"
+  isbn: 978-4758013741
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265aba
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(5)"
+  isbn: 978-4758014199
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265abb
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(6)"
+  isbn: 978-4758014847
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265abc
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(7)"
+  isbn: 978-4758015349
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265abd
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(8)"
+  isbn: 978-4758015738
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265abe
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(9)"
+  isbn: 978-4758016100
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265abf
+  title: "東方茨歌仙 ～ Wild and Horned Hermit.(10)"
+  isbn: 978-4758016629
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265ac0
+  title: "東方Projectあずまあや画集 はなおうぎ"
+  isbn: 978-4758016643
+  authors:
+    - author: 5f9855bcb629d1a38d4cbd90

@@ -1,0 +1,40 @@
+- id: 5f9855bc0f0268ef33265aa5
+  title: "チェンソーマン(1)"
+  isbn: "978-4-08-881780-4"
+  authors: &author
+    - author: 5f9855bcb629d1a38d4cbd91
+
+- id: 5f9855bc0f0268ef33265aa6
+  title: "チェンソーマン(2)"
+  isbn: "978-4-08-881831-3"
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265aa7
+  title: "チェンソーマン(3)"
+  isbn: "978-4-08-882016-3"
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265aa8
+  title: "チェンソーマン(4)"
+  isbn: "978-4-08-882075-0"
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265aa9
+  title: "チェンソーマン(5)"
+  isbn: "978-4-08-882171-9"
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265aaa
+  title: "チェンソーマン(6)"
+  isbn: "978-4-08-882224-2"
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265aab
+  title: "チェンソーマン(7)"
+  isbn: "978-4-08-882328-7"
+  authors: *author
+
+- id: 5f9855bc0f0268ef33265aac
+  title: "チェンソーマン(8)"
+  isbn: "978-4-08-882376-8"
+  authors: *author

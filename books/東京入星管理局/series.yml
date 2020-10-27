@@ -1,0 +1,11 @@
+id: 5f9855bcf3f6883ecb8b7611
+title: "東京入星管理局"
+concluded: false
+books:
+  - book: 5f9855bc0f0268ef33265ab4
+    serial: 1
+  - book: 5f9855bc0f0268ef33265ab5
+    serial: 2
+
+relatedAuthors:
+  - 5f9855bcb629d1a38d4cbd94

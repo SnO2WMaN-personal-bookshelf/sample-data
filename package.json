@@ -1,0 +1,8 @@
+{
+  "name": "sample",
+  "private": true,
+  "dependencies": {
+    "glob": "^7.1.6",
+    "js-yaml": "^3.14.0"
+  }
+}

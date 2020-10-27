@@ -1,0 +1,25 @@
+- id: 5f985fefbdf98e7c4ca408e9
+  title: "すべての人類を破壊する。それらは再生できない。(1)"
+  authors: &author
+    - author: 5f9855bcb629d1a38d4cbd98
+      roles:
+        - "原作"
+    - author: 5f9855bcb629d1a38d4cbd9c
+      roles:
+        - "漫画"
+
+- id: 5f985fefbdf98e7c4ca408ea
+  title: "すべての人類を破壊する。それらは再生できない。(2)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408eb
+  title: "すべての人類を破壊する。それらは再生できない。(3)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408ec
+  title: "すべての人類を破壊する。それらは再生できない。(4)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408ed
+  title: "すべての人類を破壊する。それらは再生できない。(5)"
+  authors: *author

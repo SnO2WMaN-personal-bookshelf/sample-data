@@ -1,0 +1,13 @@
+id: 5f9855bcf3f6883ecb8b7612
+title: "魔法少女にあこがれて"
+concluded: false
+books:
+  - book: 5f985fefbdf98e7c4ca408d6
+    serial: 1
+  - book: 5f985fefbdf98e7c4ca408d7
+    serial: 2
+  - book: 5f985fefbdf98e7c4ca408d8
+    serial: 3
+
+relatedAuthors:
+  - 5f985f080bebe591425f7ac8

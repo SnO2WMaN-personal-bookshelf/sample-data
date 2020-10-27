@@ -1,0 +1,17 @@
+id: 5f9855bcf3f6883ecb8b760f
+title: "よふかしのうた"
+concluded: false
+books:
+  - book: 5f9855bc0f0268ef33265aad
+    serial: 1
+  - book: 5f9855bc0f0268ef33265aae
+    serial: 2
+  - book: 5f9855bc0f0268ef33265aaf
+    serial: 3
+  - book: 5f9855bc0f0268ef33265ab0
+    serial: 4
+  - book: 5f9855bc0f0268ef33265ab1
+    serial: 5
+
+relatedAuthors:
+  - 5f9855bcb629d1a38d4cbd8e

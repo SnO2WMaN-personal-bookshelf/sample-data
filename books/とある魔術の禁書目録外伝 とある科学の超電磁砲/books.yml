@@ -1,0 +1,73 @@
+- id: 5f985fefbdf98e7c4ca408d9
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(1)"
+  authors: &author
+    - author: 5f9855bcb629d1a38d4cbd9b
+      roles:
+        - "原作"
+    - author: 5f9855bcb629d1a38d4cbd9c
+      roles:
+        - "漫画"
+    - author: 5f985f080bebe591425f7aca
+      roles:
+        - "キャラクターデザイン"
+
+- id: 5f985fefbdf98e7c4ca408da
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(2)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408db
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(3)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408dc
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(4)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408dd
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(5)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408de
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(6)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408df
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(7)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e0
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(8)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e1
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(9)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e2
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(10)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e3
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(11)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e4
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(12)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e5
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(13)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e6
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(14)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e7
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(15)"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408e8
+  title: "とある魔術の禁書目録外伝 とある科学の超電磁砲(16)"
+  authors: *author
+
