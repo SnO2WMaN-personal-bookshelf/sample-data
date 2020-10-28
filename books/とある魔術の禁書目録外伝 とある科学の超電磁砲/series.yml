@@ -1,39 +1,39 @@
 id: 5f9855bcf3f6883ecb8b7615
-title: "とある魔術の禁書目録外伝 とある科学の超電磁砲"
+title: 'とある魔術の禁書目録外伝 とある科学の超電磁砲'
 concluded: false
 books:
   - book: 5f985fefbdf98e7c4ca408d9
-    volume: 1
+    serial: 1
   - book: 5f985fefbdf98e7c4ca408da
-    volume: 2
+    serial: 2
   - book: 5f985fefbdf98e7c4ca408db
-    volume: 3
+    serial: 3
   - book: 5f985fefbdf98e7c4ca408dc
-    volume: 4
+    serial: 4
   - book: 5f985fefbdf98e7c4ca408dd
-    volume: 5
+    serial: 5
   - book: 5f985fefbdf98e7c4ca408de
-    volume: 6
+    serial: 6
   - book: 5f985fefbdf98e7c4ca408df
-    volume: 7
+    serial: 7
   - book: 5f985fefbdf98e7c4ca408e0
-    volume: 8
+    serial: 8
   - book: 5f985fefbdf98e7c4ca408e1
-    volume: 9
+    serial: 9
   - book: 5f985fefbdf98e7c4ca408e2
-    volume: 10
+    serial: 10
   - book: 5f985fefbdf98e7c4ca408e3
-    volume: 11
+    serial: 11
   - book: 5f985fefbdf98e7c4ca408e4
-    volume: 12
+    serial: 12
   - book: 5f985fefbdf98e7c4ca408e5
-    volume: 13
+    serial: 13
   - book: 5f985fefbdf98e7c4ca408e6
-    volume: 14
+    serial: 14
   - book: 5f985fefbdf98e7c4ca408e7
-    volume: 15
+    serial: 15
   - book: 5f985fefbdf98e7c4ca408e8
-    volume: 16
+    serial: 16
 
 relatedAuthors:
   - 5f9855bcb629d1a38d4cbd9b
