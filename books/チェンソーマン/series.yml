@@ -18,6 +18,8 @@ books:
     serial: 7
   - book: 5f9855bc0f0268ef33265aac
     serial: 8
+  - book: 5f985fefbdf98e7c4ca408ee
+    serial: 9
 
 relatedAuthors:
   - 5f9855bcb629d1a38d4cbd91

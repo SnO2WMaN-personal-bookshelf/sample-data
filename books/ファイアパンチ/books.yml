@@ -1,0 +1,40 @@
+- id: 5f985fefbdf98e7c4ca408ef
+  title: "ファイアパンチ(1)"
+  isbn: "978-4-08-880731-7"
+  authors: &author
+    - author: 5f9855bcb629d1a38d4cbd91
+
+- id: 5f985fefbdf98e7c4ca408f0
+  title: "ファイアパンチ(2)"
+  isbn: "978-4-08-880797-3"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408f1
+  title: "ファイアパンチ(3)"
+  isbn: "978-4-08-880873-4"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408f2
+  title: "ファイアパンチ(4)"
+  isbn: "978-4-08-881014-0"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408f3
+  title: "ファイアパンチ(5)"
+  isbn: "978-4-08-881061-4"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408f4
+  title: "ファイアパンチ(6)"
+  isbn: "978-4-08-881147-5"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408f5
+  title: "ファイアパンチ(7)"
+  isbn: "978-4-08-881170-3"
+  authors: *author
+
+- id: 5f985fefbdf98e7c4ca408f6
+  title: "ファイアパンチ(8)"
+  isbn: "978-4-08-881327-1"
+  authors: *author

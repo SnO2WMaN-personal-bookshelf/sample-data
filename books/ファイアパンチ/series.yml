@@ -1,0 +1,23 @@
+id: 5f9855bcf3f6883ecb8b7618
+title: "ファイアパンチ"
+concluded: true
+books:
+  - book: 5f985fefbdf98e7c4ca408ef
+    serial: 1
+  - book: 5f985fefbdf98e7c4ca408f0
+    serial: 2
+  - book: 5f985fefbdf98e7c4ca408f1
+    serial: 3
+  - book: 5f985fefbdf98e7c4ca408f2
+    serial: 4
+  - book: 5f985fefbdf98e7c4ca408f3
+    serial: 5
+  - book: 5f985fefbdf98e7c4ca408f4
+    serial: 6
+  - book: 5f985fefbdf98e7c4ca408f5
+    serial: 7
+  - book: 5f985fefbdf98e7c4ca408f6
+    serial: 8
+
+relatedAuthors:
+  - 5f9855bcb629d1a38d4cbd91

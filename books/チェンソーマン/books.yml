@@ -38,3 +38,8 @@
   title: "チェンソーマン(8)"
   isbn: "978-4-08-882376-8"
   authors: *author
+
+- id: 5f985fefbdf98e7c4ca408ee
+  title: "チェンソーマン(9)"
+  isbn: "978-4088824703"
+  authors: *author
