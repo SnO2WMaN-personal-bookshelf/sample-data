@@ -1,0 +1,19 @@
+id: 5f9855bcf3f6883ecb8b7619
+title: "少女終末旅行"
+concluded: false
+books:
+  - book: 5f985fefbdf98e7c4ca408f0
+    serial: 1
+  - book: 5f985fefbdf98e7c4ca408f1
+    serial: 2
+  - book: 5f985fefbdf98e7c4ca408f2
+    serial: 3
+  - book: 5f985fefbdf98e7c4ca408f3
+    serial: 4
+  - book: 5f985fefbdf98e7c4ca408f4
+    serial: 5
+  - book: 5f985fefbdf98e7c4ca408f5
+    serial: 6
+
+relatedAuthors:
+  - 5f985f080bebe591425f7acb
