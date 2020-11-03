@@ -1,0 +1,14 @@
+title: "東京入星管理局"
+concluded: false
+
+books:
+  - title: "東京入星管理局(1)"
+    serial: 1
+    isbn: 9784814801855
+
+  - title: "東京入星管理局(2)"
+    serial: 2
+    isbn: 9784823600869
+
+authors:
+  - name: "窓口基"

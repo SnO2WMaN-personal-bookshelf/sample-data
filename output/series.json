@@ -1,191 +1,658 @@
 [
   {
-    "title": "少女終末旅行",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7619"},
-    "books": [
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408f0"}, "serial": 1},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408f1"}, "serial": 2},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408f2"}, "serial": 3},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408f3"}, "serial": 4},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408f4"}, "serial": 5},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408f5"}, "serial": 6}
-    ],
-    "relatedAuthors": [{"$oid": "5f985f080bebe591425f7acb"}],
-    "relatedBooks": []
-  },
-  {
-    "title": "シメジシミュレーション",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7618"},
-    "books": [{"book": {"$oid": "5f985fefbdf98e7c4ca408ee"}, "serial": 1}],
-    "relatedAuthors": [{"$oid": "5f985f080bebe591425f7acb"}],
-    "relatedBooks": []
-  },
-  {
-    "title": "東方茨歌仙 ～ Wild and Horned Hermit.",
-    "concluded": true,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7617"},
-    "books": [
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab6"}, "serial": 1},
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab7"}, "serial": 2},
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab8"}, "serial": 3},
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab9"}, "serial": 4},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aba"}, "serial": 5},
-      {"book": {"$oid": "5f9855bc0f0268ef33265abb"}, "serial": 6},
-      {"book": {"$oid": "5f9855bc0f0268ef33265abc"}, "serial": 7},
-      {"book": {"$oid": "5f9855bc0f0268ef33265abd"}, "serial": 8},
-      {"book": {"$oid": "5f9855bc0f0268ef33265abe"}, "serial": 9},
-      {"book": {"$oid": "5f9855bc0f0268ef33265abf"}, "serial": 10}
-    ],
-    "relatedAuthors": [
-      {"$oid": "5f9855bcb629d1a38d4cbd8f"},
-      {"$oid": "5f9855bcb629d1a38d4cbd90"}
-    ],
-    "relatedBooks": [{"$oid": "5f9855bc0f0268ef33265ac0"}]
-  },
-  {
-    "title": "チェンソーマン",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7616"},
-    "books": [
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa5"}, "serial": 1},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa6"}, "serial": 2},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa7"}, "serial": 3},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa8"}, "serial": 4},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa9"}, "serial": 5},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aaa"}, "serial": 6},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aab"}, "serial": 7},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aac"}, "serial": 8}
-    ],
-    "relatedAuthors": [{"$oid": "5f9855bcb629d1a38d4cbd91"}],
-    "relatedBooks": []
-  },
-  {
-    "title": "とある魔術の禁書目録外伝 とある科学の超電磁砲",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7615"},
-    "books": [
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408d9"}, "volume": 1},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408da"}, "volume": 2},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408db"}, "volume": 3},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408dc"}, "volume": 4},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408dd"}, "volume": 5},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408de"}, "volume": 6},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408df"}, "volume": 7},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e0"}, "volume": 8},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e1"}, "volume": 9},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e2"}, "volume": 10},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e3"}, "volume": 11},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e4"}, "volume": 12},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e5"}, "volume": 13},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e6"}, "volume": 14},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e7"}, "volume": 15},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e8"}, "volume": 16}
-    ],
-    "relatedAuthors": [
-      {"$oid": "5f9855bcb629d1a38d4cbd9b"},
-      {"$oid": "5f9855bcb629d1a38d4cbd9c"},
-      {"$oid": "5f985f080bebe591425f7aca"}
-    ],
-    "relatedBooks": []
-  },
-  {
-    "title": "すべての人類を破壊する。それらは再生できない。",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7614"},
-    "books": [
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408e9"}, "serial": 1},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408ea"}, "serial": 2},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408eb"}, "serial": 3},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408ec"}, "serial": 4},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408ed"}, "serial": 5}
-    ],
-    "relatedAuthors": [
-      {"$oid": "5f9855bcb629d1a38d4cbd98"},
-      {"$oid": "5f9855bcb629d1a38d4cbd99"}
-    ],
-    "relatedBooks": []
-  },
-  {
+    "_id": "970ee02f7839775fff1cf0b5b01fdcb0",
     "title": "あーとかうーしか言えない",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7613"},
     "books": [
-      {"book": {"$oid": "5f9855bc0f0268ef33265a95"}, "serial": 1},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a96"}, "serial": 2},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a97"}, "serial": 3},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a98"}, "serial": 4}
+      {
+        "serial": 1,
+        "isbn": "978-4091291035",
+        "book": "1dd96f6d5ecf0ba2560da3d8325c35ef"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4091293763",
+        "book": "f003930a2528e55d200f995f4c07c1fa"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4091297068",
+        "book": "b7af6469a863a504456ade40bd8ac963"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4098501977",
+        "book": "634c3a57294bcce8f3cc8c31af541cd2"
+      }
     ],
-    "relatedAuthors": [{"$oid": "5f9855bcb629d1a38d4cbd93"}],
-    "relatedBooks": []
+    "relatedAuthors": ["1b4bb7b56e2a472970bf0f070843fb3d"]
   },
   {
-    "title": "魔法少女にあこがれて",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7612"},
+    "_id": "55b20023e0792e157893d23a15dc1dda",
+    "title": "シメジシミュレーション",
     "books": [
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408d6"}, "serial": 1},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408d7"}, "serial": 2},
-      {"book": {"$oid": "5f985fefbdf98e7c4ca408d8"}, "serial": 3}
+      {
+        "serial": 1,
+        "isbn": "978-4-04-064291-8",
+        "book": "09077d82a7b4104378f811982b9ec139"
+      }
     ],
-    "relatedAuthors": [{"$oid": "5f985f080bebe591425f7ac8"}],
-    "relatedBooks": []
+    "relatedAuthors": ["0cc768945f50f0a3a8112b89d3af0339"]
   },
   {
-    "title": "東京入星管理局",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7611"},
+    "_id": "91905760c0bde475974717222ed213eb",
+    "title": "すべての人類を破壊する。それらは再生できない。",
     "books": [
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab4"}, "serial": 1},
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab5"}, "serial": 2}
+      {
+        "serial": 1,
+        "isbn": "978-4091291035",
+        "book": "d248df08d64629fac98d05efca9c3f49"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4091293763",
+        "book": "06197428b46941a009dbbd82f9001dce"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4091297068",
+        "book": "f9b6ef0e646a1ba34d72eaccc066a3fc"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4098501977",
+        "book": "d80caf6c4a125f58fc38b45b11d7033b"
+      },
+      {
+        "serial": 5,
+        "isbn": "978-4098501977",
+        "book": "c8864ea3da978df478f5b1c1c5d93d5c"
+      }
     ],
-    "relatedAuthors": [{"$oid": "5f9855bcb629d1a38d4cbd94"}],
-    "relatedBooks": []
+    "relatedAuthors": [
+      "a92375ea84fb68faddaeb16611136bd7",
+      "2a349dd1b71ff3935c906d2188678e0b"
+    ]
   },
   {
-    "title": "九龍ジェネリックロマンス",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b7610"},
-    "books": [
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab2"}, "serial": 1},
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab3"}, "serial": 2}
-    ],
-    "relatedAuthors": [{"$oid": "5f9855bcb629d1a38d4cbd92"}],
-    "relatedBooks": []
-  },
-  {
-    "title": "よふかしのうた",
-    "concluded": false,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b760f"},
-    "books": [
-      {"book": {"$oid": "5f9855bc0f0268ef33265aad"}, "serial": 1},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aae"}, "serial": 2},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aaf"}, "serial": 3},
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab0"}, "serial": 4},
-      {"book": {"$oid": "5f9855bc0f0268ef33265ab1"}, "serial": 5}
-    ],
-    "relatedAuthors": [{"$oid": "5f9855bcb629d1a38d4cbd8e"}],
-    "relatedBooks": []
-  },
-  {
+    "_id": "7f78493c1f34e0c5776da5a694382a62",
     "title": "だがしかし",
-    "concluded": true,
-    "_id": {"$oid": "5f9855bcf3f6883ecb8b760e"},
     "books": [
-      {"book": {"$oid": "5f9855bc0f0268ef33265a99"}, "serial": 1},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a9a"}, "serial": 2},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a9b"}, "serial": 3},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a9c"}, "serial": 4},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a9d"}, "serial": 5},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a9e"}, "serial": 6},
-      {"book": {"$oid": "5f9855bc0f0268ef33265a9f"}, "serial": 7},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa0"}, "serial": 8},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa1"}, "serial": 9},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa2"}, "serial": 10},
-      {"book": {"$oid": "5f9855bc0f0268ef33265aa3"}, "serial": 11}
+      {
+        "serial": 1,
+        "isbn": "9784091251251",
+        "book": "7f635265e18c51a1da0ce513a586eb96"
+      },
+      {
+        "serial": 2,
+        "isbn": "9784091253996",
+        "book": "82871cd42093a387916f636c4ec6ef0f"
+      },
+      {
+        "serial": 3,
+        "isbn": "9784091262103",
+        "book": "0006f901375d3f09c6cfd75300a22910"
+      },
+      {
+        "serial": 4,
+        "isbn": "9784091265708",
+        "book": "77d68dd90238cdff13e266ce39788d4d"
+      },
+      {
+        "serial": 5,
+        "isbn": "9784091271600",
+        "book": "06649e9a60ebfcfdfb5a7ce75deefe5b"
+      },
+      {
+        "serial": 6,
+        "isbn": "9784091274083",
+        "book": "b05a26d8f172f3588d6fbcc7e6eee3f2"
+      },
+      {
+        "serial": 7,
+        "isbn": "9784091275134",
+        "book": "43194dadda660b3ce3103b3e52a7beae"
+      },
+      {
+        "serial": 8,
+        "isbn": "9784091276810",
+        "book": "ef380928c8ea69863e98dc2f57e03418"
+      },
+      {
+        "serial": 9,
+        "isbn": "9784091278821",
+        "book": "86d5303ebb14d36e19633afa90f58cc0"
+      },
+      {
+        "serial": 10,
+        "isbn": "9784091280831",
+        "book": "a71bf429df07bcb0d1a845ede7b213d2"
+      },
+      {
+        "serial": 11,
+        "isbn": "9784091282477",
+        "book": "15fc53d4b5f331f89e07bdbaeb58e534"
+      }
     ],
-    "relatedAuthors": [{"$oid": "5f9855bcb629d1a38d4cbd8e"}],
-    "relatedBooks": [{"$oid": "5f9855bc0f0268ef33265aa4"}]
+    "relatedAuthors": ["05b468ee5ce97ded094decb5b94cf18a"]
+  },
+  {
+    "_id": "64d45cf919e436505a2ed8f1ab64a51e",
+    "title": "チェンソーマン",
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-08-881780-4",
+        "book": "b13372bdd65a587f3d94b5473a54bf38"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-08-881831-3",
+        "book": "76008bb1f839d08c24a9745c3391f203"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4-08-882016-3",
+        "book": "ce46477176f75fcc5ddb89b7c8de141d"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4-08-882075-0",
+        "book": "3ff2d93d7aba2a9135206c790b3e815a"
+      },
+      {
+        "serial": 5,
+        "isbn": "978-4-08-882171-9",
+        "book": "abeb493801139acb8b79cc195742c2c3"
+      },
+      {
+        "serial": 6,
+        "isbn": "978-4-08-882224-2",
+        "book": "cfe5ff35c79fb2017854b2a30864bca4"
+      },
+      {
+        "serial": 7,
+        "isbn": "978-4-08-882328-7",
+        "book": "252db5fb74c5adca39edc11abb3a8de0"
+      },
+      {
+        "serial": 8,
+        "isbn": "978-4-08-882376-8",
+        "book": "122f3a9750150ccc3fac7d77ad8d1145"
+      },
+      {
+        "serial": 9,
+        "isbn": "978-4-08-882470-3",
+        "book": "7a2bb42eaed612408dc91a70f0b63d13"
+      }
+    ],
+    "relatedAuthors": ["9be69d54b8f90736bf6f53997205c8fd"]
+  },
+  {
+    "_id": "2278519b3f9e30f686918db535c31387",
+    "title": "とある魔術の禁書目録外伝 とある科学の超電磁砲",
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "9784048662932",
+        "book": "5bbc46561e0440d0553e81f8f728bfc0"
+      },
+      {
+        "serial": 2,
+        "isbn": "9784048671460",
+        "book": "1938dc0625b8ca647e2b36d9e5896856"
+      },
+      {
+        "serial": 3,
+        "isbn": "9784048677196",
+        "book": "e3e7ccdfb3e5b057f788d85adf07ea02"
+      },
+      {
+        "serial": 4,
+        "isbn": "9784048681698",
+        "book": "86f96b991aeaef0ad5f5c69b1fdcd448"
+      },
+      {
+        "serial": 5,
+        "isbn": "9784048686860",
+        "book": "71fff5829224aab8c8040a415c63c601"
+      },
+      {
+        "serial": 6,
+        "isbn": "9784048703505",
+        "book": "bbb0f59ad9cb18de1e089adba10f19e9"
+      },
+      {
+        "serial": 7,
+        "isbn": "9784048709767",
+        "book": "40f84444adb044b0c05f6201ee29d363"
+      },
+      {
+        "serial": 8,
+        "isbn": "9784048911016",
+        "book": "6b3bb5211507da5814097b3280bd4b8d"
+      },
+      {
+        "serial": 9,
+        "isbn": "9784048918442",
+        "book": "cec5c29e575cca81e5b7c19d624f7b92"
+      },
+      {
+        "serial": 10,
+        "isbn": "9784048666985",
+        "book": "33cd3483258b81137b322d9bebf9481c"
+      },
+      {
+        "serial": 11,
+        "isbn": "9784048654319",
+        "book": "f10cecb3c2aace5503e844b58f47ebf4"
+      },
+      {
+        "serial": 12,
+        "isbn": "9784048662932",
+        "book": "c4469c73d5e8a4eba30cc9d2395d0fcb"
+      },
+      {
+        "serial": 13,
+        "isbn": "9784048934251",
+        "book": "56622602a005d3c185b68f6f36772d4a"
+      },
+      {
+        "serial": 14,
+        "isbn": "9784049121469",
+        "book": "551dc43a91853a2702f9f863943224f0"
+      },
+      {
+        "serial": 15,
+        "isbn": "9784049128383",
+        "book": "53b13ce66fdf3c295f2cf7e426ff21aa"
+      },
+      {
+        "serial": 16,
+        "isbn": "978-4049134810",
+        "book": "1a8cfb4bd059cd34801240cbf4733bd5"
+      }
+    ],
+    "relatedAuthors": [
+      "60f404a3e83d513d78c7944a2b759e14",
+      "9a99c1371e49f4aacd7dd2770b01c50c",
+      "949edc8f64d72f7e8b7e9fdadec23179"
+    ]
+  },
+  {
+    "_id": "eb62e826e82f29d3e83eb888db46f36e",
+    "title": "ニンジャスレイヤー キョート・ヘル・オン・アース",
+    "books": [
+      {
+        "isbn": "978-4-253-23916-5",
+        "serial": 1,
+        "book": "0227621ae1597b40f5a11b8e979b6b0f"
+      },
+      {
+        "isbn": "978-4-253-23917-2",
+        "serial": 2,
+        "book": "c9885f4863cbedaa9198bacb26957e46"
+      },
+      {
+        "isbn": "978-4-253-23918-9",
+        "serial": 3,
+        "book": "f18bd5d7002d32ed6ce86b7c707976e1"
+      },
+      {
+        "isbn": "978-4-253-23919-6",
+        "serial": 4,
+        "book": "c7035856c26548fc7d9781ed88feefa1"
+      },
+      {
+        "isbn": "978-4-253-23920-2",
+        "serial": 5,
+        "book": "64c42da4f7b6e8057b255ac9b7d78f28"
+      },
+      {
+        "isbn": "978-4253239219",
+        "serial": 6,
+        "book": "2d624abfc518e4dc0b8e824f9131ed9d"
+      }
+    ],
+    "relatedAuthors": [
+      "b46ea948c0382ae588cca9edd0d3a3f2",
+      "51322c9935fdbe98a41a24261df1c6c0",
+      "acc408665c4c5041b0145c362b6cbdf2"
+    ]
+  },
+  {
+    "_id": "cf2cfbc251148365c2f761a497cadda0",
+    "title": "ファイアパンチ",
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-08-880731-7",
+        "book": "112e7c00bdb0499bd4b65c49a3decefb"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-08-880797-3",
+        "book": "e2bc3a47fd0a1b9c489e156f758da134"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4-08-880873-4",
+        "book": "6135efd62afc6322a300f4ceb999c834"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4-08-881014-0",
+        "book": "97bbb8e490ebad1356b038744a6cecab"
+      },
+      {
+        "serial": 5,
+        "isbn": "978-4-08-881061-4",
+        "book": "a77681d97f8835b2a2750d65833a3f3e"
+      },
+      {
+        "serial": 6,
+        "isbn": "978-4-08-881147-5",
+        "book": "5cedaa5e0d1748813da97452f2ecb09f"
+      },
+      {
+        "serial": 7,
+        "isbn": "978-4-08-881170-3",
+        "book": "324b8ba61f5f3c0cc41e96aaf3e1c933"
+      },
+      {
+        "serial": 8,
+        "isbn": "978-4-08-881327-1",
+        "book": "a7337e346efff5a5c4d8ae1fae8ffdc1"
+      }
+    ],
+    "relatedAuthors": ["9be69d54b8f90736bf6f53997205c8fd"]
+  },
+  {
+    "_id": "8519196674bafde99e4b044c99415e7e",
+    "title": "ゆるキャン△",
+    "books": [
+      {"serial": 1, "book": "a15599672c7b665de9441f06a0f5d121"},
+      {"serial": 2, "book": "f0d4e0dbcf414da621523a594db47588"},
+      {"serial": 3, "book": "5e11782de6bbc543a9208a49d3952a5e"},
+      {"serial": 4, "book": "233cbbdb4fa50f369b5b37dc2d7f141a"},
+      {"serial": 5, "book": "1c714e0c673868766054633b510c820d"},
+      {"serial": 6, "book": "f03680f4a9ba312a8928e7f26af19222"},
+      {"serial": 7, "book": "7827d0b693c607ee5b63423106338bab"},
+      {"serial": 8, "book": "4b3652a3e2e6e6cd51f60317a46d35da"},
+      {"serial": 9, "book": "51744e7aa1ebdd87e6d8f4691a99e527"},
+      {"serial": 10, "book": "d684693548991d7ff1db44ffc56b46e9"}
+    ],
+    "relatedAuthors": ["b56e931eb36a2f73f9ec67b91dde9298"]
+  },
+  {
+    "_id": "e0189fcfbf221474db3949503496fa2b",
+    "title": "よつばと！",
+    "books": [
+      {"serial": 1, "book": "e0158a034ef81154e6be34ed01933451"},
+      {"serial": 2, "book": "d991bd58c1d23907be3fa5d3125293f4"},
+      {"serial": 3, "book": "48ae44fb9ce9501626c440c7b5a14ae9"},
+      {"serial": 4, "book": "d4493e36870d1e6bcaaa48954208fa14"},
+      {"serial": 5, "book": "408697fa7ae4255f8922060d18b9503e"},
+      {"serial": 6, "book": "3fe0ef2c2439e218196720ffbbe0f239"},
+      {"serial": 7, "book": "08c6ac560f8cd8511b6773be147e34e2"},
+      {"serial": 8, "book": "91829534557512f24680d26194a13311"},
+      {"serial": 9, "book": "9cdee6437a2c68b325d2d01ef092efcd"},
+      {"serial": 10, "book": "2c6101a1355507a87cc12f77c76ffd9a"},
+      {"serial": 11, "book": "dc4f47e7f802323a22b0a81fa8546439"},
+      {"serial": 12, "book": "e4c461fd3d91fcf98442a0e3c667c906"}
+    ],
+    "relatedAuthors": ["38f3d5e0a3f22168894da2d0274d3e11"]
+  },
+  {
+    "_id": "861e7efa1c55943759509148ba963533",
+    "title": "よふかしのうた",
+    "books": [
+      {
+        "serial": 1,
+        "isbn": 9784091294920,
+        "book": "fede29d40a8d777865861a86949d92f4"
+      },
+      {
+        "serial": 2,
+        "isbn": 9784091295569,
+        "book": "26900a2bc7d7d5df6cd5a537eaf4fa67"
+      },
+      {
+        "serial": 3,
+        "isbn": 9784098500642,
+        "book": "848598905d862c7e6e73656c7198a13b"
+      },
+      {
+        "serial": 4,
+        "isbn": 9784098500642,
+        "book": "7eddc767b3e8d9b0d70d61f9ce8b048d"
+      },
+      {
+        "serial": 5,
+        "isbn": 9784098502684,
+        "book": "504435d20a20eb25379a93d5860e763f"
+      }
+    ],
+    "relatedAuthors": ["05b468ee5ce97ded094decb5b94cf18a"]
+  },
+  {
+    "_id": "b691d13aa2274b20939c5b71eae1326d",
+    "title": "九龍ジェネリックロマンス",
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-08-891488-6",
+        "book": "de5036a9db79934be1d769518dcd54a5"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-08-891532-6",
+        "book": "74e14532fa8c9a4921bfb1c0586c1608"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4088917283",
+        "book": "8db5dc65ba4cea0f400c9328fc5413ce"
+      }
+    ],
+    "relatedAuthors": ["82e472c3cb9083adb86d81e988636ff0"]
+  },
+  {
+    "_id": "1ddb2ca2f92eafd15ac7773550f3e85a",
+    "title": "少女終末旅行",
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-10-771781-8",
+        "book": "748399e44e1e173e066e9f1f34bfc323"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-10-771830-3",
+        "book": "ed72dc254e13814a1a35c1b354ba2c12"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4-10-771874-7",
+        "book": "ba2bb67bbeb91239a4d7c00eb2e366c5"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4-10-771929-4",
+        "book": "767e9df629bc227be1ef14e6dd7822b7"
+      },
+      {
+        "serial": 5,
+        "isbn": "978-4-10-772009-2",
+        "book": "2f22155e1cd013c4e54504a7ee6ba85c"
+      },
+      {
+        "serial": 6,
+        "isbn": "978-4-10-772060-3",
+        "book": "5753f213090ee6d7ac248d18caca1e90"
+      }
+    ],
+    "relatedAuthors": ["0cc768945f50f0a3a8112b89d3af0339"]
+  },
+  {
+    "_id": "95d8a5eb88f11aff2e3e59958d9b1bfc",
+    "title": "東京入星管理局",
+    "books": [
+      {
+        "serial": 1,
+        "isbn": 9784814801855,
+        "book": "c3960ae7bb1b0265f1027827879772fe"
+      },
+      {
+        "serial": 2,
+        "isbn": 9784823600869,
+        "book": "5cd737558ba308bacfcdbf20a0dde7cf"
+      }
+    ],
+    "relatedAuthors": ["b57629210a7f486b21b58323f7eef7d9"]
+  },
+  {
+    "_id": "0a2671a8d0e6efb93ad4a57f836ebfa8",
+    "title": "東方智霊奇伝 反則探偵さとり",
+    "books": [
+      {
+        "isbn": "9784049133486",
+        "serial": 1,
+        "book": "4a501c3835ba569d124e10991262348f"
+      }
+    ],
+    "relatedAuthors": [
+      "58bd7626b5fb46c91ed212fa773f0b0a",
+      "40383f1d287ab96d02e53a6580dc7269"
+    ]
+  },
+  {
+    "_id": "6301d9454de571c1c78335fde0f5a777",
+    "title": "東方茨歌仙 ～ Wild and Horned Hermit.",
+    "books": [
+      {
+        "isbn": "978-4758012225",
+        "serial": 1,
+        "book": "f87c87f04b36b82f47af1e7e9f737c9e"
+      },
+      {
+        "isbn": "978-4041210031",
+        "serial": 2,
+        "book": "68c53ee61767a8ca8c8db79d23a043ef"
+      },
+      {
+        "isbn": "978-4758013178",
+        "serial": 3,
+        "book": "6b5b128ab410a8fc8cd984491309cc42"
+      },
+      {
+        "isbn": "978-4758013741",
+        "serial": 4,
+        "book": "0edd5e7631fb4679b598e088d13380bc"
+      },
+      {
+        "isbn": "978-4758014199",
+        "serial": 5,
+        "book": "62dc4818456ee208b02539e8f7a64d42"
+      },
+      {
+        "isbn": "978-4758014847",
+        "serial": 6,
+        "book": "0eed05302e7e7fbcb58ef065cd219281"
+      },
+      {
+        "isbn": "978-4758015349",
+        "serial": 7,
+        "book": "8c0ed9765ef021c6c8d7b213b44309d7"
+      },
+      {
+        "isbn": "978-4758015738",
+        "serial": 8,
+        "book": "f0665ced2cae9300e07496f8d753a9cf"
+      },
+      {
+        "isbn": "978-4758016100",
+        "serial": 9,
+        "book": "068d34fdfc6b9ce552a68f2a69a0a44f"
+      },
+      {
+        "isbn": "978-4758016629",
+        "serial": 10,
+        "book": "b5af92dc8c253caa08cba6595c8b8816"
+      }
+    ],
+    "relatedAuthors": [
+      "58bd7626b5fb46c91ed212fa773f0b0a",
+      "885355827dc3f4a0b4f2cb4b1b917a86"
+    ]
+  },
+  {
+    "_id": "0e1b17769fb5ff5fdf2ca166e8aab852",
+    "title": "東方酔蝶華 ～ ロータスイーター達の酔醒",
+    "books": [
+      {
+        "isbn": "9784041098967",
+        "serial": 1,
+        "book": "d6e1d2d710377f88a7c4f257dca1fd8b"
+      }
+    ],
+    "relatedAuthors": [
+      "58bd7626b5fb46c91ed212fa773f0b0a",
+      "028a1018571f9a8c5bef2792118611b9"
+    ]
+  },
+  {
+    "_id": "874ae15b5faa6ee7e8cf7a0c8432ad71",
+    "title": "東方鈴奈庵 ～ Forbidden Scrollery.",
+    "books": [
+      {
+        "isbn": "9784041206195",
+        "serial": 1,
+        "book": "5338880345b6de45698b7a369d3be210"
+      },
+      {
+        "isbn": "9784041210031",
+        "serial": 2,
+        "book": "fe787057051aad64939a9ffa0da847be"
+      },
+      {
+        "isbn": "9784041015858",
+        "serial": 3,
+        "book": "761dc4ce7a145aa8387e1744e051af7d"
+      },
+      {
+        "isbn": "9784041033463",
+        "serial": 4,
+        "book": "4fe3d90c78f9a17fcf8987fa25ecf073"
+      },
+      {
+        "isbn": "9784041042649",
+        "serial": 5,
+        "book": "37a1577626c2b1fd84477389b8377cde"
+      },
+      {
+        "isbn": "9784041042670",
+        "serial": 6,
+        "book": "a8cc519b7fc6c487ea9ea8cc8a145a2c"
+      },
+      {
+        "isbn": "9784041060964",
+        "serial": 7,
+        "book": "40cf383faabd8c78de5871d2a495bed9"
+      }
+    ],
+    "relatedAuthors": [
+      "58bd7626b5fb46c91ed212fa773f0b0a",
+      "8e9f8f3e58be66b078482965f6c29f4e"
+    ]
+  },
+  {
+    "_id": "3c550771f03d1f47ea8be6a630326deb",
+    "title": "魔法少女にあこがれて",
+    "books": [
+      {"serial": 1, "book": "cac67da84a2b5960fdab04326c356c31"},
+      {"serial": 2, "book": "53eb8903a4dbb6aa60ac1c4e0cdb222e"},
+      {"serial": 3, "book": "91c40550891b8d785db73e8623ee1c7f"}
+    ],
+    "relatedAuthors": ["4df9740b629120132918c4b26448fd56"]
   }
 ]

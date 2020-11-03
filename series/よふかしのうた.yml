@@ -1,0 +1,27 @@
+title: "よふかしのうた"
+concluded: false
+
+books:
+  - title: "よふかしのうた(1)"
+    serial: 1
+    isbn: 9784091294920
+
+  - title: "よふかしのうた(2)"
+    serial: 2
+    isbn: 9784091295569
+
+  - title: "よふかしのうた(3)"
+    serial: 3
+    isbn: 9784098500642
+
+  - title: "よふかしのうた(4)"
+    serial: 4
+    isbn: 9784098500642
+
+  - title: "よふかしのうた(5)"
+    serial: 5
+    isbn: 9784098502684
+
+
+authors:
+  - name: "コトヤマ"
