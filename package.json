@@ -1,8 +1,17 @@
 {
   "name": "sample",
   "private": true,
+  "scripts": {
+    "bundle": "node bundle.mjs && prettier output/*.json --write",
+    "new:series": "hygen new series && npm run bundle"
+  },
   "dependencies": {
     "glob": "^7.1.6",
-    "js-yaml": "^3.14.0"
+    "js-yaml": "^3.14.0",
+    "md5": "^2.3.0"
+  },
+  "devDependencies": {
+    "hygen": "^6.0.4",
+    "prettier": "^2.1.2"
   }
 }
