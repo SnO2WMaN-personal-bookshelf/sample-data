@@ -15,19 +15,26 @@ function main() {
         Promise.all(buffers.map((buffer) => jsyaml.safeLoad(buffer))),
       )
       .then((array) =>
-        array.map(({title, books, authors}) => ({
+        array.map(({title, books, relatedBooks, authors, concluded}) => ({
           series: {
             _id: md5(title),
             title,
+            concluded,
             books: books.map(({title: bookTitle, ...book}) => ({
               ...book,
               book: md5(bookTitle),
             })),
+            relatedBooks:
+              relatedBooks?.map((book) => ({
+                ...book,
+                _id: md5(book.title),
+              })) || [],
             relatedAuthors: authors.map((author) => md5(author.name)),
           },
           books: books.map(({serial, ...book}) => ({
             ...book,
             _id: md5(book.title),
+            isbn: book.isbn ? String(book.isbn) : null,
             authors: authors.map(({name, ...author}) => ({
               ...author,
               author: md5(name),

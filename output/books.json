@@ -513,140 +513,162 @@
   {
     "title": "ゆるキャン△(1)",
     "_id": "a15599672c7b665de9441f06a0f5d121",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(2)",
     "_id": "f0d4e0dbcf414da621523a594db47588",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(3)",
     "_id": "5e11782de6bbc543a9208a49d3952a5e",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(4)",
     "_id": "233cbbdb4fa50f369b5b37dc2d7f141a",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(5)",
     "_id": "1c714e0c673868766054633b510c820d",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(6)",
     "_id": "f03680f4a9ba312a8928e7f26af19222",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(7)",
     "_id": "7827d0b693c607ee5b63423106338bab",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(8)",
     "_id": "4b3652a3e2e6e6cd51f60317a46d35da",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(9)",
     "_id": "51744e7aa1ebdd87e6d8f4691a99e527",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "ゆるキャン△(10)",
     "_id": "d684693548991d7ff1db44ffc56b46e9",
+    "isbn": null,
     "authors": [{"author": "b56e931eb36a2f73f9ec67b91dde9298"}]
   },
   {
     "title": "よつばと！(1)",
     "_id": "e0158a034ef81154e6be34ed01933451",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(2)",
     "_id": "d991bd58c1d23907be3fa5d3125293f4",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(3)",
     "_id": "48ae44fb9ce9501626c440c7b5a14ae9",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(4)",
     "_id": "d4493e36870d1e6bcaaa48954208fa14",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(5)",
     "_id": "408697fa7ae4255f8922060d18b9503e",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(6)",
     "_id": "3fe0ef2c2439e218196720ffbbe0f239",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(7)",
     "_id": "08c6ac560f8cd8511b6773be147e34e2",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(8)",
     "_id": "91829534557512f24680d26194a13311",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(9)",
     "_id": "9cdee6437a2c68b325d2d01ef092efcd",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(10)",
     "_id": "2c6101a1355507a87cc12f77c76ffd9a",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(11)",
     "_id": "dc4f47e7f802323a22b0a81fa8546439",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よつばと！(12)",
     "_id": "e4c461fd3d91fcf98442a0e3c667c906",
+    "isbn": null,
     "authors": [{"author": "38f3d5e0a3f22168894da2d0274d3e11"}]
   },
   {
     "title": "よふかしのうた(1)",
-    "isbn": 9784091294920,
+    "isbn": "9784091294920",
     "_id": "fede29d40a8d777865861a86949d92f4",
     "authors": [{"author": "05b468ee5ce97ded094decb5b94cf18a"}]
   },
   {
     "title": "よふかしのうた(2)",
-    "isbn": 9784091295569,
+    "isbn": "9784091295569",
     "_id": "26900a2bc7d7d5df6cd5a537eaf4fa67",
     "authors": [{"author": "05b468ee5ce97ded094decb5b94cf18a"}]
   },
   {
     "title": "よふかしのうた(3)",
-    "isbn": 9784098500642,
+    "isbn": "9784098500642",
     "_id": "848598905d862c7e6e73656c7198a13b",
     "authors": [{"author": "05b468ee5ce97ded094decb5b94cf18a"}]
   },
   {
     "title": "よふかしのうた(4)",
-    "isbn": 9784098500642,
+    "isbn": "9784098500642",
     "_id": "7eddc767b3e8d9b0d70d61f9ce8b048d",
     "authors": [{"author": "05b468ee5ce97ded094decb5b94cf18a"}]
   },
   {
     "title": "よふかしのうた(5)",
-    "isbn": 9784098502684,
+    "isbn": "9784098502684",
     "_id": "504435d20a20eb25379a93d5860e763f",
     "authors": [{"author": "05b468ee5ce97ded094decb5b94cf18a"}]
   },
@@ -706,13 +728,13 @@
   },
   {
     "title": "東京入星管理局(1)",
-    "isbn": 9784814801855,
+    "isbn": "9784814801855",
     "_id": "c3960ae7bb1b0265f1027827879772fe",
     "authors": [{"author": "b57629210a7f486b21b58323f7eef7d9"}]
   },
   {
     "title": "東京入星管理局(2)",
-    "isbn": 9784823600869,
+    "isbn": "9784823600869",
     "_id": "5cd737558ba308bacfcdbf20a0dde7cf",
     "authors": [{"author": "b57629210a7f486b21b58323f7eef7d9"}]
   },
@@ -890,16 +912,19 @@
   {
     "title": "魔法少女にあこがれて(1)",
     "_id": "cac67da84a2b5960fdab04326c356c31",
+    "isbn": null,
     "authors": [{"author": "4df9740b629120132918c4b26448fd56"}]
   },
   {
     "title": "魔法少女にあこがれて(2)",
     "_id": "53eb8903a4dbb6aa60ac1c4e0cdb222e",
+    "isbn": null,
     "authors": [{"author": "4df9740b629120132918c4b26448fd56"}]
   },
   {
     "title": "魔法少女にあこがれて(3)",
     "_id": "91c40550891b8d785db73e8623ee1c7f",
+    "isbn": null,
     "authors": [{"author": "4df9740b629120132918c4b26448fd56"}]
   }
 ]

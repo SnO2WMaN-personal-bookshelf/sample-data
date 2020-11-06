@@ -2,6 +2,7 @@
   {
     "_id": "970ee02f7839775fff1cf0b5b01fdcb0",
     "title": "あーとかうーしか言えない",
+    "concluded": false,
     "books": [
       {
         "serial": 1,
@@ -24,11 +25,13 @@
         "book": "634c3a57294bcce8f3cc8c31af541cd2"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["1b4bb7b56e2a472970bf0f070843fb3d"]
   },
   {
     "_id": "55b20023e0792e157893d23a15dc1dda",
     "title": "シメジシミュレーション",
+    "concluded": false,
     "books": [
       {
         "serial": 1,
@@ -36,11 +39,13 @@
         "book": "09077d82a7b4104378f811982b9ec139"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["0cc768945f50f0a3a8112b89d3af0339"]
   },
   {
     "_id": "91905760c0bde475974717222ed213eb",
     "title": "すべての人類を破壊する。それらは再生できない。",
+    "concluded": false,
     "books": [
       {
         "serial": 1,
@@ -68,6 +73,7 @@
         "book": "c8864ea3da978df478f5b1c1c5d93d5c"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": [
       "a92375ea84fb68faddaeb16611136bd7",
       "2a349dd1b71ff3935c906d2188678e0b"
@@ -76,6 +82,7 @@
   {
     "_id": "7f78493c1f34e0c5776da5a694382a62",
     "title": "だがしかし",
+    "concluded": true,
     "books": [
       {
         "serial": 1,
@@ -133,11 +140,19 @@
         "book": "15fc53d4b5f331f89e07bdbaeb58e534"
       }
     ],
+    "relatedBooks": [
+      {
+        "title": "だがしなど ～未収録作品＆イラスト集～",
+        "isbn": "9784091295316",
+        "_id": "7019947fd0d91a87f8ef35c4e3cd13fa"
+      }
+    ],
     "relatedAuthors": ["05b468ee5ce97ded094decb5b94cf18a"]
   },
   {
     "_id": "64d45cf919e436505a2ed8f1ab64a51e",
     "title": "チェンソーマン",
+    "concluded": false,
     "books": [
       {
         "serial": 1,
@@ -185,11 +200,13 @@
         "book": "7a2bb42eaed612408dc91a70f0b63d13"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["9be69d54b8f90736bf6f53997205c8fd"]
   },
   {
     "_id": "2278519b3f9e30f686918db535c31387",
     "title": "とある魔術の禁書目録外伝 とある科学の超電磁砲",
+    "concluded": false,
     "books": [
       {
         "serial": 1,
@@ -272,6 +289,7 @@
         "book": "1a8cfb4bd059cd34801240cbf4733bd5"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": [
       "60f404a3e83d513d78c7944a2b759e14",
       "9a99c1371e49f4aacd7dd2770b01c50c",
@@ -281,6 +299,7 @@
   {
     "_id": "eb62e826e82f29d3e83eb888db46f36e",
     "title": "ニンジャスレイヤー キョート・ヘル・オン・アース",
+    "concluded": false,
     "books": [
       {
         "isbn": "978-4-253-23916-5",
@@ -313,6 +332,7 @@
         "book": "2d624abfc518e4dc0b8e824f9131ed9d"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": [
       "b46ea948c0382ae588cca9edd0d3a3f2",
       "51322c9935fdbe98a41a24261df1c6c0",
@@ -322,6 +342,7 @@
   {
     "_id": "cf2cfbc251148365c2f761a497cadda0",
     "title": "ファイアパンチ",
+    "concluded": true,
     "books": [
       {
         "serial": 1,
@@ -364,11 +385,13 @@
         "book": "a7337e346efff5a5c4d8ae1fae8ffdc1"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["9be69d54b8f90736bf6f53997205c8fd"]
   },
   {
     "_id": "8519196674bafde99e4b044c99415e7e",
     "title": "ゆるキャン△",
+    "concluded": false,
     "books": [
       {"serial": 1, "book": "a15599672c7b665de9441f06a0f5d121"},
       {"serial": 2, "book": "f0d4e0dbcf414da621523a594db47588"},
@@ -381,11 +404,13 @@
       {"serial": 9, "book": "51744e7aa1ebdd87e6d8f4691a99e527"},
       {"serial": 10, "book": "d684693548991d7ff1db44ffc56b46e9"}
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["b56e931eb36a2f73f9ec67b91dde9298"]
   },
   {
     "_id": "e0189fcfbf221474db3949503496fa2b",
     "title": "よつばと！",
+    "concluded": false,
     "books": [
       {"serial": 1, "book": "e0158a034ef81154e6be34ed01933451"},
       {"serial": 2, "book": "d991bd58c1d23907be3fa5d3125293f4"},
@@ -400,11 +425,13 @@
       {"serial": 11, "book": "dc4f47e7f802323a22b0a81fa8546439"},
       {"serial": 12, "book": "e4c461fd3d91fcf98442a0e3c667c906"}
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["38f3d5e0a3f22168894da2d0274d3e11"]
   },
   {
     "_id": "861e7efa1c55943759509148ba963533",
     "title": "よふかしのうた",
+    "concluded": false,
     "books": [
       {
         "serial": 1,
@@ -432,11 +459,13 @@
         "book": "504435d20a20eb25379a93d5860e763f"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["05b468ee5ce97ded094decb5b94cf18a"]
   },
   {
     "_id": "b691d13aa2274b20939c5b71eae1326d",
     "title": "九龍ジェネリックロマンス",
+    "concluded": false,
     "books": [
       {
         "serial": 1,
@@ -454,11 +483,13 @@
         "book": "8db5dc65ba4cea0f400c9328fc5413ce"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["82e472c3cb9083adb86d81e988636ff0"]
   },
   {
     "_id": "1ddb2ca2f92eafd15ac7773550f3e85a",
     "title": "少女終末旅行",
+    "concluded": true,
     "books": [
       {
         "serial": 1,
@@ -491,11 +522,13 @@
         "book": "5753f213090ee6d7ac248d18caca1e90"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["0cc768945f50f0a3a8112b89d3af0339"]
   },
   {
     "_id": "95d8a5eb88f11aff2e3e59958d9b1bfc",
     "title": "東京入星管理局",
+    "concluded": false,
     "books": [
       {
         "serial": 1,
@@ -508,11 +541,13 @@
         "book": "5cd737558ba308bacfcdbf20a0dde7cf"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["b57629210a7f486b21b58323f7eef7d9"]
   },
   {
     "_id": "0a2671a8d0e6efb93ad4a57f836ebfa8",
     "title": "東方智霊奇伝 反則探偵さとり",
+    "concluded": false,
     "books": [
       {
         "isbn": "9784049133486",
@@ -520,6 +555,7 @@
         "book": "4a501c3835ba569d124e10991262348f"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": [
       "58bd7626b5fb46c91ed212fa773f0b0a",
       "40383f1d287ab96d02e53a6580dc7269"
@@ -528,6 +564,7 @@
   {
     "_id": "6301d9454de571c1c78335fde0f5a777",
     "title": "東方茨歌仙 ～ Wild and Horned Hermit.",
+    "concluded": true,
     "books": [
       {
         "isbn": "978-4758012225",
@@ -580,6 +617,13 @@
         "book": "b5af92dc8c253caa08cba6595c8b8816"
       }
     ],
+    "relatedBooks": [
+      {
+        "title": "東方Projectあずまあや画集 はなおうぎ",
+        "isbn": "978-4758016643",
+        "_id": "7049b800ba4a7f84c357b7cf1b615603"
+      }
+    ],
     "relatedAuthors": [
       "58bd7626b5fb46c91ed212fa773f0b0a",
       "885355827dc3f4a0b4f2cb4b1b917a86"
@@ -588,6 +632,7 @@
   {
     "_id": "0e1b17769fb5ff5fdf2ca166e8aab852",
     "title": "東方酔蝶華 ～ ロータスイーター達の酔醒",
+    "concluded": false,
     "books": [
       {
         "isbn": "9784041098967",
@@ -595,6 +640,7 @@
         "book": "d6e1d2d710377f88a7c4f257dca1fd8b"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": [
       "58bd7626b5fb46c91ed212fa773f0b0a",
       "028a1018571f9a8c5bef2792118611b9"
@@ -603,6 +649,7 @@
   {
     "_id": "874ae15b5faa6ee7e8cf7a0c8432ad71",
     "title": "東方鈴奈庵 ～ Forbidden Scrollery.",
+    "concluded": true,
     "books": [
       {
         "isbn": "9784041206195",
@@ -640,6 +687,7 @@
         "book": "40cf383faabd8c78de5871d2a495bed9"
       }
     ],
+    "relatedBooks": [],
     "relatedAuthors": [
       "58bd7626b5fb46c91ed212fa773f0b0a",
       "8e9f8f3e58be66b078482965f6c29f4e"
@@ -648,11 +696,13 @@
   {
     "_id": "3c550771f03d1f47ea8be6a630326deb",
     "title": "魔法少女にあこがれて",
+    "concluded": false,
     "books": [
       {"serial": 1, "book": "cac67da84a2b5960fdab04326c356c31"},
       {"serial": 2, "book": "53eb8903a4dbb6aa60ac1c4e0cdb222e"},
       {"serial": 3, "book": "91c40550891b8d785db73e8623ee1c7f"}
     ],
+    "relatedBooks": [],
     "relatedAuthors": ["4df9740b629120132918c4b26448fd56"]
   }
 ]
