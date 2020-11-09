@@ -1,0 +1,56 @@
+title: '化物語'
+concluded: false
+
+books:
+  - title: '化物語(1)'
+    serial: 1
+    isbn: '978-4-06-511617-3'
+
+  - title: '化物語(2)'
+    serial: 2
+    isbn: '978-4-06-512333-1'
+
+  - title: '化物語(3)'
+    serial: 3
+    isbn: '978-4-06-513313-2'
+
+  - title: '化物語(4)'
+    serial: 4
+    isbn: '978-4-06-513938-7'
+
+  - title: '化物語(5)'
+    serial: 5
+    isbn: '978-4-06-514889-1'
+
+  - title: '化物語(6)'
+    serial: 6
+    isbn: '978-4-06-515314-7'
+
+  - title: '化物語(7)'
+    serial: 7
+    isbn: '978-4-06-517166-0'
+
+  - title: '化物語(8)'
+    serial: 8
+    isbn: '978-4-06-518172-0'
+
+  - title: '化物語(9)'
+    serial: 9
+    isbn: '978-4-06-518853-8'
+
+  - title: '化物語(10)'
+    serial: 10
+    isbn: '978-4-06-520334-7'
+
+  - title: '化物語(11)'
+    serial: 11
+    isbn: '978-4065212561'
+
+authors:
+  - name: '西尾維新'
+    roles:
+      - '原作'
+
+  - name: '大暮維人'
+    roles:
+      - '漫画'

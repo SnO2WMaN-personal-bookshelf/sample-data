@@ -1,0 +1,24 @@
+title: '東方儚月抄 Silent Sinner in Blue.'
+concluded: true
+
+books:
+  - title: '東方儚月抄 Silent Sinner in Blue. 上'
+    serial: 1
+    isbn: '978-4-7580-6089-9'
+
+  - title: '東方儚月抄 Silent Sinner in Blue. 中'
+    serial: 2
+    isbn: '978-4-7580-6124-7'
+
+  - title: '東方儚月抄 Silent Sinner in Blue. 下'
+    serial: 3
+    isbn: '978-4-7580-6169-8'
+
+authors:
+  - name: 'ZUN'
+    roles:
+      - '原作'
+
+  - name: '秋★枝'
+    roles:
+      - '漫画'

@@ -1,0 +1,50 @@
+title: 'CITY'
+concluded: false
+
+books:
+  - title: 'CITY(1)'
+    serial: 1
+    isbn: '978-4-06-388708-2'
+
+  - title: 'CITY(2)'
+    serial: 2
+    isbn: '978-4-06-388719-8'
+
+  - title: 'CITY(3)'
+    serial: 3
+    isbn: '978-4-06-510229-9'
+
+  - title: 'CITY(4)'
+    serial: 4
+    isbn: '978-4-06-511157-4'
+
+  - title: 'CITY(5)'
+    serial: 5
+    isbn: '978-4-06-512026-2'
+
+  - title: 'CITY(6)'
+    serial: 6
+    isbn: '978-4-06-213610-2'
+
+  - title: 'CITY(7)'
+    serial: 7
+    isbn: '978-4-06-514954-6'
+
+  - title: 'CITY(8)'
+    serial: 8
+    isbn: '978-4-06-516295-8'
+
+  - title: 'CITY(9)'
+    serial: 9
+    isbn: '978-4-06-517782-2'
+
+  - title: 'CITY(10)'
+    serial: 10
+    isbn: '978-4-06-518933-7'
+
+  - title: 'CITY(11)'
+    serial: 11
+    isbn: '978-4-06-520306-4'
+
+authors:
+  - name: 'あらゐけいいち'

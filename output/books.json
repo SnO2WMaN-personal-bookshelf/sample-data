@@ -1,5 +1,71 @@
 [
   {
+    "title": "CITY(1)",
+    "isbn": "978-4-06-388708-2",
+    "_id": "5bb315a2550ab4ab52a83d7eacaebf6b",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(2)",
+    "isbn": "978-4-06-388719-8",
+    "_id": "806adbfc042a718833df6c1136336501",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(3)",
+    "isbn": "978-4-06-510229-9",
+    "_id": "f0034ff3ddac5f72b9d237d738e9a2a0",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(4)",
+    "isbn": "978-4-06-511157-4",
+    "_id": "f695e18f6e7d77016ea596abf9e782bd",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(5)",
+    "isbn": "978-4-06-512026-2",
+    "_id": "a58dfa90bdd4b561b3d5f039ee4be20b",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(6)",
+    "isbn": "978-4-06-213610-2",
+    "_id": "4ed72ac1f011412af3b0e42cd2cacdf4",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(7)",
+    "isbn": "978-4-06-514954-6",
+    "_id": "92ea87893ef557b0a9591811541f212d",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(8)",
+    "isbn": "978-4-06-516295-8",
+    "_id": "4d62f6af76f163c965383e4d6f905fab",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(9)",
+    "isbn": "978-4-06-517782-2",
+    "_id": "2480d2f69f65796b595b94b07ee8d1a6",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(10)",
+    "isbn": "978-4-06-518933-7",
+    "_id": "d8cd5fe36103a948076cafdea1fdf80c",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
+    "title": "CITY(11)",
+    "isbn": "978-4-06-520306-4",
+    "_id": "e0810e9b8d4d55c6f3ea22b0b85afede",
+    "authors": [{"author": "fb5ccd34c5e5855fbc67bcef5c535c3e"}]
+  },
+  {
     "title": "あーとかうーしか言えない(1)",
     "isbn": "978-4091291035",
     "_id": "1dd96f6d5ecf0ba2560da3d8325c35ef",
@@ -22,6 +88,72 @@
     "isbn": "978-4098501977",
     "_id": "634c3a57294bcce8f3cc8c31af541cd2",
     "authors": [{"author": "1b4bb7b56e2a472970bf0f070843fb3d"}]
+  },
+  {
+    "title": "キルミーベイベー(1)",
+    "isbn": "978-4-8322-7773-1",
+    "_id": "06f9000709547eb5580851be99981244",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(2)",
+    "isbn": "978-4-8322-7883-7",
+    "_id": "a1e006f32fd64a9872285c47cd0e2817",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(3)",
+    "isbn": "978-4-8322-8000-7",
+    "_id": "23e2f12dc08be80cf62aff9fd82c5372",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(4)",
+    "isbn": "978-4-8322-4105-3",
+    "_id": "cc347abce9fdc2256e92926dabbb69cd",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(5)",
+    "isbn": "978-4-8322-4277-7",
+    "_id": "5e82348e047d83f13461c8eae7bd2dab",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(6)",
+    "isbn": "978-4-8322-4418-4",
+    "_id": "145adebf8640c4fe1e3ed29be5db1ea9",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(7)",
+    "isbn": "978-4-8322-4558-7",
+    "_id": "ce298f93e54fc855219c23b8d4aa7a2c",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(8)",
+    "isbn": "978-4-8322-4707-9",
+    "_id": "86da8ac4c9fadfbe46b1a19c944cb89a",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(9)",
+    "isbn": "978-4-8322-4884-7",
+    "_id": "684a0c5bb251a47614121cba4e57e202",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(10)",
+    "isbn": "978-4-8322-4994-3",
+    "_id": "16f4837085fddd5773ccb6c7c2a3918d",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
+  },
+  {
+    "title": "キルミーベイベー(11)",
+    "isbn": "978-4-8322-7152-4",
+    "_id": "ed1bb0f975f302507fe6433ba287e7d7",
+    "authors": [{"author": "2b979a739a4bb1d3305772c57f2b878e"}]
   },
   {
     "title": "シメジシミュレーション(1)",
@@ -691,6 +823,105 @@
     "authors": [{"author": "82e472c3cb9083adb86d81e988636ff0"}]
   },
   {
+    "title": "化物語(1)",
+    "isbn": "978-4-06-511617-3",
+    "_id": "23212e218a01076883f1c0d4168e94bc",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(2)",
+    "isbn": "978-4-06-512333-1",
+    "_id": "1be4ab339c322b787290d8edaf3d0af7",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(3)",
+    "isbn": "978-4-06-513313-2",
+    "_id": "1dd7b6646ab1d29d6bff02aaecbc8683",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(4)",
+    "isbn": "978-4-06-513938-7",
+    "_id": "4657765f5a2e7127a2566c582eaa410f",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(5)",
+    "isbn": "978-4-06-514889-1",
+    "_id": "3ac90eb7ac814eef4df3331f5a20fd7e",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(6)",
+    "isbn": "978-4-06-515314-7",
+    "_id": "737b0846bdc8d92e2228072731f1372a",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(7)",
+    "isbn": "978-4-06-517166-0",
+    "_id": "7e0c8865040976509ca82ea932a3a2ca",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(8)",
+    "isbn": "978-4-06-518172-0",
+    "_id": "644e29a4b30fe7eaef20cc6500571e1f",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(9)",
+    "isbn": "978-4-06-518853-8",
+    "_id": "0e79399ba4c43bc8a393d01fc71ad3f8",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(10)",
+    "isbn": "978-4-06-520334-7",
+    "_id": "639acada767228504301c8834f4fa7fb",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
+    "title": "化物語(11)",
+    "isbn": "978-4065212561",
+    "_id": "eed8cbb795fa9334039ab5adc6d686d7",
+    "authors": [
+      {"roles": ["原作"], "author": "03a5dabe8cf5d5443c68f7f52ad7dfb5"},
+      {"roles": ["漫画"], "author": "4e2a012664203266a08ed4b8869c3e12"}
+    ]
+  },
+  {
     "title": "少女終末旅行(1)",
     "isbn": "978-4-10-771781-8",
     "_id": "748399e44e1e173e066e9f1f34bfc323",
@@ -727,6 +958,36 @@
     "authors": [{"author": "0cc768945f50f0a3a8112b89d3af0339"}]
   },
   {
+    "title": "映像研には手を出すな！(1)",
+    "isbn": "978-4-09-189296-6",
+    "_id": "21b73f95178b8fff7b07866cad3cb1a4",
+    "authors": [{"author": "bf3db7c705d8613c74e9c2a6d644379b"}]
+  },
+  {
+    "title": "映像研には手を出すな！(2)",
+    "isbn": "978-4-09-189636-0",
+    "_id": "61334425e830cc928619676737530a6a",
+    "authors": [{"author": "bf3db7c705d8613c74e9c2a6d644379b"}]
+  },
+  {
+    "title": "映像研には手を出すな！(3)",
+    "isbn": "978-4-09-189887-6",
+    "_id": "10cdb5a96828e4667dcbf4c2e06bb881",
+    "authors": [{"author": "bf3db7c705d8613c74e9c2a6d644379b"}]
+  },
+  {
+    "title": "映像研には手を出すな！(4)",
+    "isbn": "978-4-09-860241-4",
+    "_id": "a1ced5b34900f89a0ff75e58fa7a41da",
+    "authors": [{"author": "bf3db7c705d8613c74e9c2a6d644379b"}]
+  },
+  {
+    "title": "映像研には手を出すな！(5)",
+    "isbn": "978-4-09-860531-6",
+    "_id": "68fc2d61f2b0449c005be8e6e469dc71",
+    "authors": [{"author": "bf3db7c705d8613c74e9c2a6d644379b"}]
+  },
+  {
     "title": "東京入星管理局(1)",
     "isbn": "9784814801855",
     "_id": "c3960ae7bb1b0265f1027827879772fe",
@@ -737,6 +998,33 @@
     "isbn": "9784823600869",
     "_id": "5cd737558ba308bacfcdbf20a0dde7cf",
     "authors": [{"author": "b57629210a7f486b21b58323f7eef7d9"}]
+  },
+  {
+    "title": "東方儚月抄 Silent Sinner in Blue. 上",
+    "isbn": "978-4-7580-6089-9",
+    "_id": "ac7fbc432b14f0d685634559b27cbe21",
+    "authors": [
+      {"roles": ["原作"], "author": "58bd7626b5fb46c91ed212fa773f0b0a"},
+      {"roles": ["漫画"], "author": "a9e2b78c51b6bc5d1e23f546bc26a596"}
+    ]
+  },
+  {
+    "title": "東方儚月抄 Silent Sinner in Blue. 中",
+    "isbn": "978-4-7580-6124-7",
+    "_id": "8b08168d1152bc2fbd94d9362da9a792",
+    "authors": [
+      {"roles": ["原作"], "author": "58bd7626b5fb46c91ed212fa773f0b0a"},
+      {"roles": ["漫画"], "author": "a9e2b78c51b6bc5d1e23f546bc26a596"}
+    ]
+  },
+  {
+    "title": "東方儚月抄 Silent Sinner in Blue. 下",
+    "isbn": "978-4-7580-6169-8",
+    "_id": "cd3d1914438e98367521c9fba6b88733",
+    "authors": [
+      {"roles": ["原作"], "author": "58bd7626b5fb46c91ed212fa773f0b0a"},
+      {"roles": ["漫画"], "author": "a9e2b78c51b6bc5d1e23f546bc26a596"}
+    ]
   },
   {
     "title": "東方智霊奇伝1 反則探偵さとり",
@@ -758,7 +1046,7 @@
   },
   {
     "title": "東方茨歌仙 ～ Wild and Horned Hermit.(2)",
-    "isbn": "978-4041210031",
+    "isbn": "978-4-7580-1262-1",
     "_id": "68c53ee61767a8ca8c8db79d23a043ef",
     "authors": [
       {"roles": ["原作"], "author": "58bd7626b5fb46c91ed212fa773f0b0a"},
@@ -767,7 +1055,7 @@
   },
   {
     "title": "東方茨歌仙 ～ Wild and Horned Hermit.(3)",
-    "isbn": "978-4758013178",
+    "isbn": "978-4-7580-1318-5",
     "_id": "6b5b128ab410a8fc8cd984491309cc42",
     "authors": [
       {"roles": ["原作"], "author": "58bd7626b5fb46c91ed212fa773f0b0a"},

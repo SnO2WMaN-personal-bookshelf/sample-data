@@ -1,5 +1,69 @@
 [
   {
+    "_id": "859214628431995197c0558f7b5f8ffc",
+    "title": "CITY",
+    "concluded": false,
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-06-388708-2",
+        "book": "5bb315a2550ab4ab52a83d7eacaebf6b"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-06-388719-8",
+        "book": "806adbfc042a718833df6c1136336501"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4-06-510229-9",
+        "book": "f0034ff3ddac5f72b9d237d738e9a2a0"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4-06-511157-4",
+        "book": "f695e18f6e7d77016ea596abf9e782bd"
+      },
+      {
+        "serial": 5,
+        "isbn": "978-4-06-512026-2",
+        "book": "a58dfa90bdd4b561b3d5f039ee4be20b"
+      },
+      {
+        "serial": 6,
+        "isbn": "978-4-06-213610-2",
+        "book": "4ed72ac1f011412af3b0e42cd2cacdf4"
+      },
+      {
+        "serial": 7,
+        "isbn": "978-4-06-514954-6",
+        "book": "92ea87893ef557b0a9591811541f212d"
+      },
+      {
+        "serial": 8,
+        "isbn": "978-4-06-516295-8",
+        "book": "4d62f6af76f163c965383e4d6f905fab"
+      },
+      {
+        "serial": 9,
+        "isbn": "978-4-06-517782-2",
+        "book": "2480d2f69f65796b595b94b07ee8d1a6"
+      },
+      {
+        "serial": 10,
+        "isbn": "978-4-06-518933-7",
+        "book": "d8cd5fe36103a948076cafdea1fdf80c"
+      },
+      {
+        "serial": 11,
+        "isbn": "978-4-06-520306-4",
+        "book": "e0810e9b8d4d55c6f3ea22b0b85afede"
+      }
+    ],
+    "relatedBooks": [],
+    "relatedAuthors": ["fb5ccd34c5e5855fbc67bcef5c535c3e"]
+  },
+  {
     "_id": "970ee02f7839775fff1cf0b5b01fdcb0",
     "title": "あーとかうーしか言えない",
     "concluded": false,
@@ -27,6 +91,70 @@
     ],
     "relatedBooks": [],
     "relatedAuthors": ["1b4bb7b56e2a472970bf0f070843fb3d"]
+  },
+  {
+    "_id": "034b486215416482ae6320ec0b21c1f2",
+    "title": "キルミーベイベー",
+    "concluded": false,
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-8322-7773-1",
+        "book": "06f9000709547eb5580851be99981244"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-8322-7883-7",
+        "book": "a1e006f32fd64a9872285c47cd0e2817"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4-8322-8000-7",
+        "book": "23e2f12dc08be80cf62aff9fd82c5372"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4-8322-4105-3",
+        "book": "cc347abce9fdc2256e92926dabbb69cd"
+      },
+      {
+        "serial": 5,
+        "isbn": "978-4-8322-4277-7",
+        "book": "5e82348e047d83f13461c8eae7bd2dab"
+      },
+      {
+        "serial": 6,
+        "isbn": "978-4-8322-4418-4",
+        "book": "145adebf8640c4fe1e3ed29be5db1ea9"
+      },
+      {
+        "serial": 7,
+        "isbn": "978-4-8322-4558-7",
+        "book": "ce298f93e54fc855219c23b8d4aa7a2c"
+      },
+      {
+        "serial": 8,
+        "isbn": "978-4-8322-4707-9",
+        "book": "86da8ac4c9fadfbe46b1a19c944cb89a"
+      },
+      {
+        "serial": 9,
+        "isbn": "978-4-8322-4884-7",
+        "book": "684a0c5bb251a47614121cba4e57e202"
+      },
+      {
+        "serial": 10,
+        "isbn": "978-4-8322-4994-3",
+        "book": "16f4837085fddd5773ccb6c7c2a3918d"
+      },
+      {
+        "serial": 11,
+        "isbn": "978-4-8322-7152-4",
+        "book": "ed1bb0f975f302507fe6433ba287e7d7"
+      }
+    ],
+    "relatedBooks": [],
+    "relatedAuthors": ["2b979a739a4bb1d3305772c57f2b878e"]
   },
   {
     "_id": "55b20023e0792e157893d23a15dc1dda",
@@ -487,6 +615,73 @@
     "relatedAuthors": ["82e472c3cb9083adb86d81e988636ff0"]
   },
   {
+    "_id": "d0a8b1b0904356722071e6e843abe535",
+    "title": "化物語",
+    "concluded": false,
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-06-511617-3",
+        "book": "23212e218a01076883f1c0d4168e94bc"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-06-512333-1",
+        "book": "1be4ab339c322b787290d8edaf3d0af7"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4-06-513313-2",
+        "book": "1dd7b6646ab1d29d6bff02aaecbc8683"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4-06-513938-7",
+        "book": "4657765f5a2e7127a2566c582eaa410f"
+      },
+      {
+        "serial": 5,
+        "isbn": "978-4-06-514889-1",
+        "book": "3ac90eb7ac814eef4df3331f5a20fd7e"
+      },
+      {
+        "serial": 6,
+        "isbn": "978-4-06-515314-7",
+        "book": "737b0846bdc8d92e2228072731f1372a"
+      },
+      {
+        "serial": 7,
+        "isbn": "978-4-06-517166-0",
+        "book": "7e0c8865040976509ca82ea932a3a2ca"
+      },
+      {
+        "serial": 8,
+        "isbn": "978-4-06-518172-0",
+        "book": "644e29a4b30fe7eaef20cc6500571e1f"
+      },
+      {
+        "serial": 9,
+        "isbn": "978-4-06-518853-8",
+        "book": "0e79399ba4c43bc8a393d01fc71ad3f8"
+      },
+      {
+        "serial": 10,
+        "isbn": "978-4-06-520334-7",
+        "book": "639acada767228504301c8834f4fa7fb"
+      },
+      {
+        "serial": 11,
+        "isbn": "978-4065212561",
+        "book": "eed8cbb795fa9334039ab5adc6d686d7"
+      }
+    ],
+    "relatedBooks": [],
+    "relatedAuthors": [
+      "03a5dabe8cf5d5443c68f7f52ad7dfb5",
+      "4e2a012664203266a08ed4b8869c3e12"
+    ]
+  },
+  {
     "_id": "1ddb2ca2f92eafd15ac7773550f3e85a",
     "title": "少女終末旅行",
     "concluded": true,
@@ -526,6 +721,40 @@
     "relatedAuthors": ["0cc768945f50f0a3a8112b89d3af0339"]
   },
   {
+    "_id": "1593391f7bfe0abe92bbf18bab56f973",
+    "title": "映像研には手を出すな！",
+    "concluded": false,
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-09-189296-6",
+        "book": "21b73f95178b8fff7b07866cad3cb1a4"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-09-189636-0",
+        "book": "61334425e830cc928619676737530a6a"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4-09-189887-6",
+        "book": "10cdb5a96828e4667dcbf4c2e06bb881"
+      },
+      {
+        "serial": 4,
+        "isbn": "978-4-09-860241-4",
+        "book": "a1ced5b34900f89a0ff75e58fa7a41da"
+      },
+      {
+        "serial": 5,
+        "isbn": "978-4-09-860531-6",
+        "book": "68fc2d61f2b0449c005be8e6e469dc71"
+      }
+    ],
+    "relatedBooks": [],
+    "relatedAuthors": ["bf3db7c705d8613c74e9c2a6d644379b"]
+  },
+  {
     "_id": "95d8a5eb88f11aff2e3e59958d9b1bfc",
     "title": "東京入星管理局",
     "concluded": false,
@@ -543,6 +772,33 @@
     ],
     "relatedBooks": [],
     "relatedAuthors": ["b57629210a7f486b21b58323f7eef7d9"]
+  },
+  {
+    "_id": "13e01d2376ab4c9ac08adc0ed97bf403",
+    "title": "東方儚月抄 Silent Sinner in Blue.",
+    "concluded": true,
+    "books": [
+      {
+        "serial": 1,
+        "isbn": "978-4-7580-6089-9",
+        "book": "ac7fbc432b14f0d685634559b27cbe21"
+      },
+      {
+        "serial": 2,
+        "isbn": "978-4-7580-6124-7",
+        "book": "8b08168d1152bc2fbd94d9362da9a792"
+      },
+      {
+        "serial": 3,
+        "isbn": "978-4-7580-6169-8",
+        "book": "cd3d1914438e98367521c9fba6b88733"
+      }
+    ],
+    "relatedBooks": [],
+    "relatedAuthors": [
+      "58bd7626b5fb46c91ed212fa773f0b0a",
+      "a9e2b78c51b6bc5d1e23f546bc26a596"
+    ]
   },
   {
     "_id": "0a2671a8d0e6efb93ad4a57f836ebfa8",
@@ -572,12 +828,12 @@
         "book": "f87c87f04b36b82f47af1e7e9f737c9e"
       },
       {
-        "isbn": "978-4041210031",
+        "isbn": "978-4-7580-1262-1",
         "serial": 2,
         "book": "68c53ee61767a8ca8c8db79d23a043ef"
       },
       {
-        "isbn": "978-4758013178",
+        "isbn": "978-4-7580-1318-5",
         "serial": 3,
         "book": "6b5b128ab410a8fc8cd984491309cc42"
       },
