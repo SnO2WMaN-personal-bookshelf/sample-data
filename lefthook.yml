@@ -1,0 +1,12 @@
+pre-commit:
+  parallel: true
+  commands:
+    eslint:
+      files: git diff --name-only --staged
+      glob: '*.{js,mjs}'
+      run: eslint {staged_files}
+
+    prettier:
+      files: git diff --name-only --staged
+      glob: '*.{json,yml}'
+      run: prettier --check {staged_files}

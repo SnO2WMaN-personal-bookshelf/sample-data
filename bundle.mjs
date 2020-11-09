@@ -1,9 +1,10 @@
-import glob from 'glob';
-import jsyaml from 'js-yaml';
 import path from 'path';
-import md5 from 'md5';
 import {readFile, writeFile} from 'fs/promises';
 import {promisify} from 'util';
+
+import glob from 'glob';
+import jsyaml from 'js-yaml';
+import md5 from 'md5';
 
 const outputDir = path.resolve('output');
 
@@ -31,6 +32,7 @@ function main() {
               })) || [],
             relatedAuthors: authors.map((author) => md5(author.name)),
           },
+          // eslint-disable-next-line no-unused-vars
           books: books.map(({serial, ...book}) => ({
             ...book,
             _id: md5(book.title),
@@ -40,6 +42,7 @@ function main() {
               author: md5(name),
             })),
           })),
+          // eslint-disable-next-line no-unused-vars
           authors: authors.map(({roles, ...author}) => ({
             ...author,
             _id: md5(author.name),
