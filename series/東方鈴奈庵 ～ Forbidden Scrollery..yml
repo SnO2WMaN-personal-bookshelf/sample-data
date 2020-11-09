@@ -1,39 +1,39 @@
-title: "東方鈴奈庵 ～ Forbidden Scrollery."
+title: '東方鈴奈庵 ～ Forbidden Scrollery.'
 concluded: true
 
 books:
-  - title: "東方鈴奈庵 ～ Forbidden Scrollery.(1)"
-    isbn: "9784041206195"
+  - title: '東方鈴奈庵 ～ Forbidden Scrollery.(1)'
+    isbn: '9784041206195'
     serial: 1
 
-  - title: "東方鈴奈庵 ～ Forbidden Scrollery.(2)"
-    isbn: "9784041210031"
+  - title: '東方鈴奈庵 ～ Forbidden Scrollery.(2)'
+    isbn: '9784041210031'
     serial: 2
 
-  - title: "東方鈴奈庵 ～ Forbidden Scrollery.(3)"
-    isbn: "9784041015858"
+  - title: '東方鈴奈庵 ～ Forbidden Scrollery.(3)'
+    isbn: '9784041015858'
     serial: 3
 
-  - title: "東方鈴奈庵 ～ Forbidden Scrollery.(4)"
-    isbn: "9784041033463"
+  - title: '東方鈴奈庵 ～ Forbidden Scrollery.(4)'
+    isbn: '9784041033463'
     serial: 4
 
-  - title: "東方鈴奈庵 ～ Forbidden Scrollery.(5)"
-    isbn: "9784041042649"
+  - title: '東方鈴奈庵 ～ Forbidden Scrollery.(5)'
+    isbn: '9784041042649'
     serial: 5
 
-  - title: "東方鈴奈庵 ～ Forbidden Scrollery.(6)"
-    isbn: "9784041042670"
+  - title: '東方鈴奈庵 ～ Forbidden Scrollery.(6)'
+    isbn: '9784041042670'
     serial: 6
 
-  - title: "東方鈴奈庵 ～ Forbidden Scrollery.(7)"
-    isbn: "9784041060964"
+  - title: '東方鈴奈庵 ～ Forbidden Scrollery.(7)'
+    isbn: '9784041060964'
     serial: 7
 
 authors:
-  - name: "ZUN"
+  - name: 'ZUN'
     roles:
       - 原作
-  - name: "春河もえ"
+  - name: '春河もえ'
     roles:
       - 漫画

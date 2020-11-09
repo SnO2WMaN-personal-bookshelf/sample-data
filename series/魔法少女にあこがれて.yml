@@ -1,13 +1,13 @@
-title: "魔法少女にあこがれて"
+title: '魔法少女にあこがれて'
 concluded: false
 
 books:
-  - title: "魔法少女にあこがれて(1)"
+  - title: '魔法少女にあこがれて(1)'
     serial: 1
-  - title: "魔法少女にあこがれて(2)"
+  - title: '魔法少女にあこがれて(2)'
     serial: 2
-  - title: "魔法少女にあこがれて(3)"
+  - title: '魔法少女にあこがれて(3)'
     serial: 3
 
 authors:
-  - name: "小野中彰大"
+  - name: '小野中彰大'

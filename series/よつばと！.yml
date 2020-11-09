@@ -1,31 +1,31 @@
-title: "よつばと！"
+title: 'よつばと！'
 concluded: false
 
 books:
-  - title: "よつばと！(1)"
+  - title: 'よつばと！(1)'
     serial: 1
-  - title: "よつばと！(2)"
+  - title: 'よつばと！(2)'
     serial: 2
-  - title: "よつばと！(3)"
+  - title: 'よつばと！(3)'
     serial: 3
-  - title: "よつばと！(4)"
+  - title: 'よつばと！(4)'
     serial: 4
-  - title: "よつばと！(5)"
+  - title: 'よつばと！(5)'
     serial: 5
-  - title: "よつばと！(6)"
+  - title: 'よつばと！(6)'
     serial: 6
-  - title: "よつばと！(7)"
+  - title: 'よつばと！(7)'
     serial: 7
-  - title: "よつばと！(8)"
+  - title: 'よつばと！(8)'
     serial: 8
-  - title: "よつばと！(9)"
+  - title: 'よつばと！(9)'
     serial: 9
-  - title: "よつばと！(10)"
+  - title: 'よつばと！(10)'
     serial: 10
-  - title: "よつばと！(11)"
+  - title: 'よつばと！(11)'
     serial: 11
-  - title: "よつばと！(12)"
+  - title: 'よつばと！(12)'
     serial: 12
 
 authors:
-  - name: "あずまきよひこ"
+  - name: 'あずまきよひこ'

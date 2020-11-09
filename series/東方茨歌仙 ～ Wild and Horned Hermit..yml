@@ -1,46 +1,46 @@
-title: "東方茨歌仙 ～ Wild and Horned Hermit."
+title: '東方茨歌仙 ～ Wild and Horned Hermit.'
 concluded: true
 
 books:
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(1)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(1)'
     isbn: 978-4758012225
     serial: 1
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(2)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(2)'
     isbn: 978-4041210031
     serial: 2
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(3)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(3)'
     isbn: 978-4758013178
     serial: 3
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(4)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(4)'
     isbn: 978-4758013741
     serial: 4
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(5)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(5)'
     isbn: 978-4758014199
     serial: 5
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(6)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(6)'
     isbn: 978-4758014847
     serial: 6
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(7)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(7)'
     isbn: 978-4758015349
     serial: 7
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(8)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(8)'
     isbn: 978-4758015738
     serial: 8
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(9)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(9)'
     isbn: 978-4758016100
     serial: 9
-  - title: "東方茨歌仙 ～ Wild and Horned Hermit.(10)"
+  - title: '東方茨歌仙 ～ Wild and Horned Hermit.(10)'
     isbn: 978-4758016629
     serial: 10
 
 relatedBooks:
-  - title: "東方Projectあずまあや画集 はなおうぎ"
+  - title: '東方Projectあずまあや画集 はなおうぎ'
     isbn: 978-4758016643
 
 authors:
-  - name: "ZUN"
+  - name: 'ZUN'
     roles:
       - 原作
-  - name: "あずまあや"
+  - name: 'あずまあや'
     roles:
       - 漫画

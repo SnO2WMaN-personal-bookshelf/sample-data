@@ -1,15 +1,15 @@
-title: "東方智霊奇伝 反則探偵さとり"
+title: '東方智霊奇伝 反則探偵さとり'
 concluded: false
 
 books:
-  - title: "東方智霊奇伝1 反則探偵さとり"
-    isbn: "9784049133486"
+  - title: '東方智霊奇伝1 反則探偵さとり'
+    isbn: '9784049133486'
     serial: 1
 
 authors:
-  - name: "ZUN"
+  - name: 'ZUN'
     roles:
-    - 原作
-  - name: "銀木犀"
+      - 原作
+  - name: '銀木犀'
     roles:
       - 漫画

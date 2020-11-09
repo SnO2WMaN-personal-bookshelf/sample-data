@@ -1,15 +1,15 @@
-title: "東方酔蝶華 ～ ロータスイーター達の酔醒"
+title: '東方酔蝶華 ～ ロータスイーター達の酔醒'
 concluded: false
 
 books:
-  - title: "東方酔蝶華 ～ ロータスイーター達の酔醒(1)"
-    isbn: "9784041098967"
+  - title: '東方酔蝶華 ～ ロータスイーター達の酔醒(1)'
+    isbn: '9784041098967'
     serial: 1
 
 authors:
-  - name: "ZUN"
+  - name: 'ZUN'
     roles:
-    - 原作
-  - name: "水炊き"
+      - 原作
+  - name: '水炊き'
     roles:
       - 漫画
